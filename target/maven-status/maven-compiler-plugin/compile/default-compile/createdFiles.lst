@@ -1,0 +1,8 @@
+com\springmvc\crud\controller\EmployeeController.class
+com\springmvc\crud\JakartaRestConfiguration.class
+com\springmvc\crud\helper\WebDispatcherServlet.class
+com\springmvc\crud\repository\EmpRepo.class
+com\springmvc\crud\entity\Employee.class
+com\springmvc\crud\service\EmpService.class
+com\springmvc\crud\helper\WebViewResolver.class
+com\springmvc\crud\resources\JakartaEE8Resource.class
